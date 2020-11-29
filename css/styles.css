@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+}
+
+.tittle{
+  background-color: #a4f5ee;
+}
+
+.Buttons{
+  padding-top: 25px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.heading{
+   padding: 5% 2%;
+   font-family: 'Piedra', monospace;
+   font-size: 100px;
+ }
+
+.stream-div{
+    padding: 30px 5px;
+}
+
+.stream{
+  padding: 20px 5px;
+  font-family: 'Texturina', serif;
+}
